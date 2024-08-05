@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// 2. Desenvolva um programa em C que peça ao usuário dois 
+// números inteiros e mostre o produto deles.
+
 int main() {
     int A, B, resultado;
 

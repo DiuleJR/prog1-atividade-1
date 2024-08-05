@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 10. Escreva um programa em C que solicite ao usuário um valor em quilogramas 
+// e o converta para libras usando a fórmula Libras = Quilogramas * 2.20462.
 
 int main() {
     float kg, lb;

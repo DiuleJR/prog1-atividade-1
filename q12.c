@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
+// 12. Implemente um programa em C que solicite ao usuário os comprimentos dos dois catetos 
+// de um triângulo retângulo e calcule a hipotenusa usando a fórmula Hipotenusa = sqrt(cateto1^2 + cateto2^2).
+
 // Precisei utilizar a biblioteca math.h
 // para poder usar as funções sqrt e pow
 

@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 8. Implemente um programa em C que solicite ao usuário uma temperatura em graus 
+// Celsius e a converta para Fahrenheit usando a fórmula Fahrenheit = Celsius * 9/5 + 32.
 
 int main() {
 

@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+// 13. Escreva um programa em C que solicite ao usuário o valor inicial de um investimento, a taxa de juros anual (como um percentual inteiro) e o tempo do 
+// investimento em anos. Calcule o montante de juros simples acumulado ao final do período e exiba este valor. A fórmula é Juros Simples = Principal * (Taxa / 100) * Tempo.
 
 int main() {
 

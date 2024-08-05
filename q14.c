@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+// 14. Desenvolva um programa em C que peça ao usuário o valor inicial de um investimento, a taxa de juros anual e o tempo 
+// de investimento em anos. Calcule e exiba o montante final usando a fórmula Montante = Principal * (1 + Taxa/100)^Tempo.
 
 int main() {
 

@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 11. Desenvolva um programa em C que peça ao usuário um valor 
+// em metros e o converta para pés, utilizando a fórmula Pés = Metros * 3.28084.
 
 int main() {
 

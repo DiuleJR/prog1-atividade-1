@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// 5. Elabore um programa em C que peça ao usuário a 
+// base e a altura de um triângulo e calcule sua área.
+
 int main() {
     
     float A, b, h, bh;

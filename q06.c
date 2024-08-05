@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 6. Desenvolva um programa em C que solicite ao usuário o raio de um círculo e 
+// calcule a área utilizando a fórmula área = pi * raio * raio.
  
 int main() {
 

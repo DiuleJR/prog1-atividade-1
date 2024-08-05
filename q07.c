@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 7. Escreva um programa em C que peça ao usuário o raio de um círculo 
+// e calcule o perímetro utilizando a fórmula perímetro = 2 * pi * raio.
 
 int main() {
 

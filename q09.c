@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 9. Crie um programa em C que leia uma temperatura em graus Fahrenheit do usuário e a 
+// converta para Celsius utilizando a fórmula Celsius = (Fahrenheit - 32) * 5/9.
 
 int main() {
 
