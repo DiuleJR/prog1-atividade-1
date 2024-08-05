@@ -19,4 +19,7 @@ int main() {
     printf("\n===== Resolução =====\n");
     printf("\nsegundos = minutos * 60 \nsegundos = %.2f * 60 \nsegundos = %.2f \n", minutos, segundos);
     printf("\n=====================\n");
+
+    return 0;
+    
 }
